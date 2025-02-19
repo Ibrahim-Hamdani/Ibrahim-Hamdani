@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 <!--
-**Ibrahim-Hamdani/Ibrahim-Hamdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ibrahim-Hamdani/Ibrahim-Hamdani** is a ✨ certified cyber security analyst ✨ 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on completing my softwaring engineering degree 
 - 🌱 I’m currently learning cyber security
