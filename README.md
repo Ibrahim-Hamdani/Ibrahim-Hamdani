@@ -2,8 +2,6 @@
 
 <!--
 **Ibrahim-Hamdani/Ibrahim-Hamdani** is a ✨ certified cyber security analyst ✨ 
-
-
 - 🔭 I’m currently working on completing my softwaring engineering degree 
 - 🌱 I’m currently learning cyber security
 - 👯 I’m looking to collaborate on software engineering projects
